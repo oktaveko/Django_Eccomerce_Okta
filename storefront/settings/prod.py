@@ -7,4 +7,4 @@ DEBUG = False
 
 SECRET_KEY = os.environ['SECRET_KEY']
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-eccomerce-okta.herokuapp.com']
