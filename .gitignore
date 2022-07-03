@@ -1,3 +1,12 @@
 .idea/
 .vscode/
+.pytest_cache/
 env/
+/media/
+/static/
+*.log
+*.pot
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
